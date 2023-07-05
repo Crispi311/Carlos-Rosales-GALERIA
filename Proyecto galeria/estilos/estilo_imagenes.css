@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+    background-color: aliceblue;
+    line-height: 50px;
+}
+
+.Anterior{
+    background-color: antiquewhite;
+}
+
+.siguente{
+    text-align: right;
+    background-color: blanchedalmond;
+    
+}
+
+ul{
+    list-style-type: disc;
+}
+
+.imagen{
+    margin-top: 25px;
+    margin-left: 250px;
+}
+
+footer{
+    text-align:center;
+    background-color: ghostwhite;
+}
